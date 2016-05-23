@@ -20,6 +20,8 @@ To view historical versions of a feed archive
 
 E-mail the feed archive as an attachment to [transitland@mapzen.com](mailto:transitland@mapzen.com).
 
+If the file is 7Mb or larger, please e-mail us without attaching the file. We'll send you alternative instructions for how to upload your file.
+
 ## How to remove a feed actually hosted elsewhere
 
 E-mail [transitland@mapzen.com](mailto:transitland@mapzen.com) with the name of the feed archive in this repository and information about its stable URL. Please include information about your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
