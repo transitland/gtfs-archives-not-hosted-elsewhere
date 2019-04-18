@@ -1,6 +1,6 @@
 # gtfs-archives-not-hosted-elsewhere
 
-Sometimes, the creators of [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md)feeds don't have the infrastructure necessary to host them. (Ideally, archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group.) Mapzen's [Transitland](https://transit.land/) originally proposed hosting these on a Github repository which gives them stable URLs that won't change and can be linked in data commons like [OpenMobilityData](https://www.openmobilitydata.org).
+Sometimes, the creators of [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) feeds don't have the infrastructure necessary to host them. (Ideally, archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group.) Mapzen's [Transitland](https://transit.land/) originally proposed hosting these on a Github repository which gives them stable URLs that won't change and can be linked in data commons like [OpenMobilityData](https://www.openmobilitydata.org).
 
 ## How to download one of these feeds
 
