@@ -1,28 +1,18 @@
 # gtfs-archives-not-hosted-elsewhere
 
-Ideally [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group. But sometimes, the creators of these feed archives don't have the infrastructure necessary to host them. Mapzen's [Transitland](https://transit.land/) originally proposed hosting these on a Github repository which gives them stable URLs that won't change and can be linked in data commons like [OpenMobilityData](https://www.openmobilitydata.org).
+Sometimes, the creators of [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md)feeds don't have the infrastructure necessary to host them. (Ideally, archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group.) Mapzen's [Transitland](https://transit.land/) originally proposed hosting these on a Github repository which gives them stable URLs that won't change and can be linked in data commons like [OpenMobilityData](https://www.openmobilitydata.org).
 
-## How to use a feed archive
+## How to download one of these feeds
 
-To download one feed archive:
+To use these feeds, we recommend you access them at [OpenMobilityData](https://www.openmobilitydata.org), which gives you the ability to browse them easily and visually, and review their history. 
 
-1. Navigate through the file listings at [https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master](https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master)
-2. Click on a `.zip` archive in the listings.
-3. Click the `Raw` button to download a copy of the archive
-
-To view historical versions of a feed archive
-
-1. Navigate through the file listings at https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master
-2. Click on a `.zip` archive in the listings.
-3. Click the `History` button to view all changes made to the feed archive.
-
-## How to submit a new or updated feed archive
+## How to submit a new feed or update it:
 
 E-mail the feed archive as an attachment to [support@openmobilitydata.org](mailto:support@openmobilitydata.org).
 
 If the file is 7Mb or larger, please e-mail us without attaching the file. We'll send you alternative instructions for how to upload your file.
 
-## How to remove a feed because it's actually hosted elsewhere
+## How to remove a feed because it's now officially hosted elsewhere
 
 E-mail [support@openmobilitydata.org](mailto:support@openmobilitydata.org) with the name of the feed archive in this repository and information about its stable URL. Please include information about your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
 
