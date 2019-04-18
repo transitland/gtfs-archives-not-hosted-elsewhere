@@ -1,18 +1,18 @@
 # gtfs-archives-not-hosted-elsewhere
 
-Ideally [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group. But sometimes, the creators of these feed archives don't have the infrastructure necessary to host them. Previously, some transit agencies and civic groups uploaded their feed archives to [GTFS Data Exchange](http://www.gtfs-data-exchange.com/). GTFS Data Exchange is no longer accepting uploads as of April 2016. [Transitland](https://transit.land/) and partners are now supporting this repository on GitHub as a central location to store feed archives that are not hosted elsewhere.
+Ideally [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group. But sometimes, the creators of these feed archives don't have the infrastructure necessary to host them. Mapzen's [Transitland](https://transit.land/) originally proposed hosting these on a Github repository which gives them stable URLs that won't change and can be linked in data commons like [OpenMobilityData](https://www.openmobilitydata.org).
 
 ## How to use a feed archive
 
 To download one feed archive:
 
-1. Navigate through the file listings at [https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master](https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master)
+1. Navigate through the file listings at [https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master](https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master)
 2. Click on a `.zip` archive in the listings.
 3. Click the `Raw` button to download a copy of the archive
 
 To view historical versions of a feed archive
 
-1. Navigate through the file listings at https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master
+1. Navigate through the file listings at https://github.com/openmobilitydata/gtfs-archives-not-hosted-elsewhere/tree/master
 2. Click on a `.zip` archive in the listings.
 3. Click the `History` button to view all changes made to the feed archive.
 
