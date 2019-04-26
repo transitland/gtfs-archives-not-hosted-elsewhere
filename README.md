@@ -1,30 +1,26 @@
 # gtfs-archives-not-hosted-elsewhere
 
-Ideally [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group. But sometimes, the creators of these feed archives don't have the infrastructure necessary to host them. Previously, some transit agencies and civic groups uploaded their feed archives to [GTFS Data Exchange](http://www.gtfs-data-exchange.com/). GTFS Data Exchange is no longer accepting uploads as of April 2016. [Transitland](https://transit.land/) and partners are now supporting this repository on GitHub as a central location to store feed archives that are not hosted elsewhere.
+Sometimes, the creators of [GTFS](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md) feeds don't have the infrastructure necessary to host them. (Ideally, archives are hosted at a stable URL on a server run by an authoritative source, like a transit agency or a civic group.) [Transitland](https://transit.land/) and [OpenMobilityData](http://www.openmobilitydata.org) are working together to host these feeds on a Github repository which gives them stable URLs that can be used by their sites.
 
-## How to use a feed archive
+## How to download one of these feeds
 
-To download one feed archive:
+To use this data, we recommend you access it at a data commons like [OpenMobilityData](http://www.openmobilitydata.org) or [Transitland](https://transit.land/), which make it easier to inspect them and review their history. 
 
-1. Navigate through the file listings at [https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master](https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master)
-2. Click on a `.zip` archive in the listings.
-3. Click the `Raw` button to download a copy of the archive
+## How to submit a new feed or update it:
 
-To view historical versions of a feed archive
+E-mail [unhostedfeed@openmobilitydata.org](mailto:unhostedfeed@openmobilitydata.org). Please include:
+* Your name
+* Your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
 
-1. Navigate through the file listings at https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/tree/master
-2. Click on a `.zip` archive in the listings.
-3. Click the `History` button to view all changes made to the feed archive.
+Please attach the feed, if it's under 7 MB. If it's larger, don't attach it, and we'll send you alternative instructions for how to upload your file.
 
-## How to submit a new or updated feed archive
+## How to remove a feed because it's now officially hosted elsewhere
 
-E-mail the feed archive as an attachment to [hello@transit.land](mailto:hello@transit.land).
-
-If the file is 7Mb or larger, please e-mail us without attaching the file. We'll send you alternative instructions for how to upload your file.
-
-## How to remove a feed because it's actually hosted elsewhere
-
-E-mail [hello@transit.land](mailto:hello@transit.land) with the name of the feed archive in this repository and information about its stable URL. Please include information about your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
+E-mail [unhostedfeed@openmobilitydata.org](mailto:unhostedfeed@openmobilitydata.org). Please include:
+* Your name
+* Your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
+* The name of the feed archive in this repository
+* The new stable URL for this feed. 
 
 ## License
 
