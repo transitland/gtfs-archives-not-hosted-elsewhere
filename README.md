@@ -8,7 +8,7 @@ To use this data, we recommend you access it at a data commons like [OpenMobilit
 
 ## How to submit a new feed or update it:
 
-E-mail [unhostedfeed@openmobilitydata.org](mailto:unhostedfeed@openmobilitydata.org). Please include:
+E-mail [hello@transit.land](mailto:hello@transit.land). Please include:
 * Your name
 * Your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
 
@@ -16,7 +16,7 @@ Please attach the feed, if it's under 7 MB. If it's larger, don't attach it, and
 
 ## How to remove a feed because it's now officially hosted elsewhere
 
-E-mail [unhostedfeed@openmobilitydata.org](mailto:unhostedfeed@openmobilitydata.org). Please include:
+E-mail [hello@transit.land](mailto:hello@transit.land). Please include:
 * Your name
 * Your affiliation: whether you work for a transit agency, are a part of a local civic group, or have another sort of interest in the feed in question.
 * The name of the feed archive in this repository
