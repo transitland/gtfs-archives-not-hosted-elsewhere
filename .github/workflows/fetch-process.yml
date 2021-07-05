@@ -8,12 +8,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    # Dubai: 7z and wget
+    # GRTC: libgbm1 for Puppeteer
     - name: Install dependencies
       run: |
-        sudo apt install p7zip-full wget
+        sudo apt install p7zip-full wget libgbm1
     - name: Fetch and preprocess Dubai
       run: |-
         cd scripts && ./dubai.sh
+    # GRTC
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '12'
+    - name: GRTC
+      run: |-
+        cd scripts
+        npm install puppeteer
+        node grtc.js
+      env:
+        GRTC_USERNAME: ${{ secrets.GRTC_USERNAME }}
+        GRTC_PASSWORD: ${{ secrets.GRTC_PASSWORD }}
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated Bot"
