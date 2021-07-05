@@ -25,6 +25,9 @@ jobs:
         cd scripts
         npm install puppeteer
         node grtc.js
+      env:
+        GRTC_USERNAME: ${{ secrets.GRTC_USERNAME }}
+        GRTC_PASSWORD: ${{ secrets.GRTC_PASSWORD }}
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated Bot"
