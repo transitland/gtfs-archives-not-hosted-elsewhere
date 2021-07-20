@@ -1,4 +1,4 @@
-name: Fetch and preprocess some feeds
+name: Fetch GRTC
 on:
   workflow_dispatch:
   schedule:
@@ -8,15 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    # Dubai: 7z and wget
-    # GRTC: libgbm1 for Puppeteer
     - name: Install dependencies
       run: |
-        sudo apt install p7zip-full wget libgbm1
-    - name: Fetch and preprocess Dubai
-      run: |-
-        cd scripts && ./dubai.sh
-    # GRTC
+        sudo apt install libgbm1
     - uses: actions/setup-node@v2
       with:
         node-version: '12'
@@ -34,5 +28,5 @@ jobs:
         git config user.email "info@interline.io"
         git add -A
         timestamp=$(date -u)
-        git commit -m "Feed(s) fetched and preprocessed" || exit 0
+        git commit -m "Latest version of GRTC" || exit 0
         git push
