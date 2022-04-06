@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install dependencies
       run: |
-        sudo apt install p7zip-full wget
+        sudo apt install p7zip-full wget libzip
     - name: Fetch and preprocess Dubai
       run: |-
         cd scripts && ./dubai.sh
