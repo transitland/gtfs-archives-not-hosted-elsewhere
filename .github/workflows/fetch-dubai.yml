@@ -5,12 +5,12 @@ on:
     - cron: '0 0 1 * *'
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - uses: actions/checkout@v2
     - name: Install dependencies
       run: |
-        sudo apt install p7zip-full wget libzip
+        sudo apt install p7zip-full wget libzip5
     - name: Fetch and preprocess Dubai
       run: |-
         cd scripts && ./dubai.sh
