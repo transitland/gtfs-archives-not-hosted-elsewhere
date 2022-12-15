@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <title>GTFS Files Download | GRTC</title>
 <meta name='keywords' content='' />
 <meta name='description' content='' />
-<link rel='canonical' href='http://ridegrtc.com/gtfs-files' />
+<link rel='canonical' href='http://ridegrtc.com/gtfs-files/' />
 
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="/8uC4FBq9W2F6ylZDG50elZKDkf3aUU9QbarhAO+D+zbDxefRMtWbDW6BxNcfFOiDpbPRYJ+gbDmvFnl5VapN7b8QBw0/PCSC8qsG2EBGrhHTdWQL7nuN+Nw+bfAknw3ua78Q5naBU9K41OHBJa7it3Wp4qpOiTmPYz5riq4U5IawCXzmKHvC5DRK10xKj/gvWnyEBiOS8othz4J4a8yETxxvaeOTakeTTQlDT0LGm03S0X1WcbVKBKNQfU2lsSdHCh5kQJCXuZSjI8MB3MsyuZpzI+/bMsW2rZHJ4+lmMhmAPPBFZft3dvKw7eBkjP827GYQmtjD7b7OxORTRuez8J+zhEUaG4Lws9s9YndOQwQHQU2BlFznq3jm/jNBwVJwf5M/ZBgvOR8az8YCnmwq+ydzmHP07Evgn2Ck3ZhjlPGMhiLx6r12fioQRgr0D/EBlLvZ2kUfcIO/0xMWqYQ6iCQsKt4kLXCkAuIDfEs01Y=" />
+<input type="hidden" name="meta" value="XbFTcQxpoAC1W09P+6GU0Tip2me6P+IEJBmDM4jmecV8ZBL1VNmhfV9POSKhmgvfH9J5CR7zU+osE0cKJq1YHJGMNauXfgYgLreu0QIkbVWG4J/asqEOhdNOIIFlLXssB8GZeLIYzU5Px5ho5yDoUMoMLLxDvDJ2cpgeNzB31tDYYg6HYVFxJdgq9/EIKQDrwmAcw5wTLwRorc7Xg2DZqm+NFs6dOw1O4bFBp44WUU4kXUET/whw5iGQZahXBBKv9uo/9e0IPuSewYBd4PNat7xCyBIhWw18bHVLbGpw3tVtTFurEPRFO1RBdx7VJ/4/xgYOGpgkXwJKGk+z5UX4YSUTPUdR+a6eRAnpYC+FVwC6VrlpMBy+aV6T1YjeZwX1y4lqjGO4pZGFEnj/MRvmx1P/2Y52g0Yq/nZSrac0A2hpr3ew75Wffk/p35lgpW/WQEsTyo5mDkppBbenVqtUMPhJoAhHbjt793T4DvDJksQ=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="f842866eba7fa53231c9e4dddf02c4696d652a7e" />
+<input type="hidden" name="csrf_token" value="9cc4cbc74efa754e2c272e7f6734d9dc9acb9f42" />
 </div>
 
 
@@ -451,24 +451,24 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
+                        	<h4>FREE 7 DAY GYM PASS</h4>
                             <hr>
-							<h5>Magaritas</h5>
+							<h5>Anytime Fitness</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Gold’s</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
                         	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>Capital Ale House (Downtown)</h5>
                         </a>
                 	
 	                    </div>
