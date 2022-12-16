@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <title>GTFS Files Download | GRTC</title>
 <meta name='keywords' content='' />
 <meta name='description' content='' />
-<link rel='canonical' href='http://ridegrtc.com/gtfs-files/' />
+<link rel='canonical' href='http://ridegrtc.com/gtfs-files' />
 
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="XbFTcQxpoAC1W09P+6GU0Tip2me6P+IEJBmDM4jmecV8ZBL1VNmhfV9POSKhmgvfH9J5CR7zU+osE0cKJq1YHJGMNauXfgYgLreu0QIkbVWG4J/asqEOhdNOIIFlLXssB8GZeLIYzU5Px5ho5yDoUMoMLLxDvDJ2cpgeNzB31tDYYg6HYVFxJdgq9/EIKQDrwmAcw5wTLwRorc7Xg2DZqm+NFs6dOw1O4bFBp44WUU4kXUET/whw5iGQZahXBBKv9uo/9e0IPuSewYBd4PNat7xCyBIhWw18bHVLbGpw3tVtTFurEPRFO1RBdx7VJ/4/xgYOGpgkXwJKGk+z5UX4YSUTPUdR+a6eRAnpYC+FVwC6VrlpMBy+aV6T1YjeZwX1y4lqjGO4pZGFEnj/MRvmx1P/2Y52g0Yq/nZSrac0A2hpr3ew75Wffk/p35lgpW/WQEsTyo5mDkppBbenVqtUMPhJoAhHbjt793T4DvDJksQ=" />
+<input type="hidden" name="meta" value="Z8+/J5zVt21gJ/J+JI5eLfY65D62fgD/g1iFht/nDRU2w0aYQauiOFdGp2cCyKoOIBP5NAk31+5fbTGdf0NZZQksa5TGLtd2Gknu3gR9o7u+/HrpkRTiJkCD35bHfcW1TNe4M+jycHpKsbB5JedmO8glN54RS1HyX3uxcgcwRnBZlsrlqCHo2Ll1VOL5/HKJRK7RfmJr+4Ki2DpNePPVecRjrUN5atd5Xf+2OcZjxgulbF9CGYcjAcXMRYv8bLKz1BUHGhvXojXE9aqSq66GYrxSFqwCmueZ2NwpS8PnVwnJt6Pc5fhkiyEXgqtgGTOrc5BxILpCvjZVmQNt/dGfJMLj58ricd9CPUtX4eClt5KAQx5y2TskaQXpCmRG3CGT/KfQ9/SwG8eI6Pl0lT3XA4kA2jUybv0DBgDagGEaGf+/e3C/7V88aOyjTOiZ+KQjzxs0j4DwGUV3bmfYlcFjqAqzPkmWsGDd7UkPKNC1kLg=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="9cc4cbc74efa754e2c272e7f6734d9dc9acb9f42" />
+<input type="hidden" name="csrf_token" value="1fbda78cfebc47b8d07f30c5a780a46403a23c70" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
-                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
+                        	<h4>$1.00 OFF ANY SUB</h4>
                             <hr>
-							<h5>Pedego Electric Bikes</h5>
+							<h5>Albert’s Pizzeria</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
-                        	<h4>FREE 7 DAY GYM PASS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
+                        	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
-							<h5>Anytime Fitness</h5>
+							<h5>Southern Railway Tap House</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
-                        	<h4>$0 TO JOIN!</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Gold’s</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
+                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
                             <hr>
-							<h5>Capital Ale House (Downtown)</h5>
+							<h5>The Urban Farmhouse Market & Cafe</h5>
                         </a>
                 	
 	                    </div>
