@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="8av36jNy5kAV2RcjzeoXEMBxcye2dR/m//Oh+i5ZLzFZs/cqPffT+63VcE8A1XF1ET3435uFJorZSkEB3oXbXOrUpmo6jjH3aibaHwYF7PGtswoCGF+im/ZY5vD7GnI7c83ZwRgoJUlAGD1LFR7TjiSVqeo2CkrKthic4k6+mjp9TJ1AKylDRZSPjqUZSYXG9g/w/7474+kFU7o4FZZ92AnQzoCMFU/VLgQUj0JOFEEt2psrmCu0q5QTl89GCBcI1ApQrO5MTRzUytbuya1tA0Bj0r2b2ksTy2dPQqxRYYWMg11r/gzY8aLnGMh24GIbd8yjbL/h0eUd/XWgIMwk6AtoFGmhnRbUI0na00zne+f1mWlXHt+IEgftai1pNnD9EdVl+STGVZQW+fQGV7MuZB0nNdOZlKEgzLtNxC0WlWsQFGuVWy/3spW3vI5SrG7TR3t+vRVVYz/xStAsPQdtTxfPg8DPzugDNvSGui5qCTw=" />
+<input type="hidden" name="meta" value="BbUEPjkTdo4KoO4XBFAKetK/f0dJrmfTNryTVwoZnh4aUjXgQo4mvuFo89EltX+MWcbKbD1iDy8mFnwMq3KO9P+6LKvPpeMzPA4tIj4AEHUZBrKcBwQlmWoY7wPaA+8sWWHzyFErJ0B3RVG80VvPA573sgu8Rp6H+fu9kQ3VKcGggc1qJkmYJKwFqOqrbGVvNHTPDQsTDpofPbRsnPKiwaUwQd5jES+8otGCNmN9xvFw9y0fuhcj4Z4KXcausOFD1c7n/37GMx6VbGdH8LX+INEtfAyk6H8oOxhaswQKER3rNsFui/G2F9/S5pobVh06Qsfzc1UTg+8f3MPeXsprVv/jwRYO4oinB441TrtQ3rm5L1EswRBXTfrFg4sGQwCqlys+Nv5f85eB21Jf0Yw/8aku6C6x/GMqJ8iy4ZWKMkfEYRNletUdk9X8+kCIjBTnZlxnr7gGnwIONnsCBtE66yL7X/ACQsyrRcJ8vtFxlQQ=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="cd0a57e30f955bfa063c6334863303faac1ae058" />
+<input type="hidden" name="csrf_token" value="ac0b819c6c21c4de794454e4ee7b29fdb7782415" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
-                        	<h4>$0 TO JOIN!</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
+                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
                             <hr>
-							<h5>Gold’s</h5>
+							<h5>Pedego Electric Bikes</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Sahara Cafe and Grill</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
-                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
+                        	<h4>25% OFF ANY TROLLY TOUR</h4>
                             <hr>
-							<h5>Richmond Flying Squirrels</h5>
+							<h5>RVA Trolley</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
-                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Burger Bach</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
 	                    </div>
