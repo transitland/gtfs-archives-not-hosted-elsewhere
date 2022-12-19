@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="BbUEPjkTdo4KoO4XBFAKetK/f0dJrmfTNryTVwoZnh4aUjXgQo4mvuFo89EltX+MWcbKbD1iDy8mFnwMq3KO9P+6LKvPpeMzPA4tIj4AEHUZBrKcBwQlmWoY7wPaA+8sWWHzyFErJ0B3RVG80VvPA573sgu8Rp6H+fu9kQ3VKcGggc1qJkmYJKwFqOqrbGVvNHTPDQsTDpofPbRsnPKiwaUwQd5jES+8otGCNmN9xvFw9y0fuhcj4Z4KXcausOFD1c7n/37GMx6VbGdH8LX+INEtfAyk6H8oOxhaswQKER3rNsFui/G2F9/S5pobVh06Qsfzc1UTg+8f3MPeXsprVv/jwRYO4oinB441TrtQ3rm5L1EswRBXTfrFg4sGQwCqlys+Nv5f85eB21Jf0Yw/8aku6C6x/GMqJ8iy4ZWKMkfEYRNletUdk9X8+kCIjBTnZlxnr7gGnwIONnsCBtE66yL7X/ACQsyrRcJ8vtFxlQQ=" />
+<input type="hidden" name="meta" value="82ReKSbrG3v35rGef4TGIDAsbow2gXU4sT9Hsk2P3FYOn/WdloetzfCQ9bQ5cmtypo7Iv42OHiVRdG6kC7oNxufiEejEBrHCt4SNCEVcxltccmoQB+R9TRHbytaN1ytK66UhkVKunUg8fcmTS3gVno1ty17GnPtt7ASKqqpaSLQ/qt8Ff1kKhhhDy3c4ShdqQ08PmBzb3xXHziWHaCWs1O30/CzplM5swsGgvhD1cuRwNUfBBViEFEETjTTfko2bHbOUUTQEN2XMOtxujSSK6R9mxJTvEpPq3hMnkeWjaD9MbqcMqEkgbEc32NiTTnvqkz8m3eRcJ8vfruM1ss8f1LpmeWNfgD0xaajsWPUYBEc1ISEOWtJqLdNWBWEBRNFtHrVpPUhImAe04ehw+h7Jfeymkbrd7YOsm+OKO5r5vh+9EcBfgfofA/WAys3m5aP+R0pqpRofbojq2csLPKf3rHRYnAhIeV45N6lpekRpzB4=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="ac0b819c6c21c4de794454e4ee7b29fdb7782415" />
+<input type="hidden" name="csrf_token" value="6274daa6decb4925e5c463f152c3ffd0d5c92785" />
 </div>
 
 
@@ -444,24 +444,24 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
-                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
+                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
                             <hr>
-							<h5>Pedego Electric Bikes</h5>
+							<h5>Segway of Richmond</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
+                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>The Urban Farmhouse Market & Cafe</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
-                        	<h4>25% OFF ANY TROLLY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>FREE BEVERAGE</h4>
                             <hr>
-							<h5>RVA Trolley</h5>
+							<h5>Caribbean Chef</h5>
                         </a>
                 	
                     		        
