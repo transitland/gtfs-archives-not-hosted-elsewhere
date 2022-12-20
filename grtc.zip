@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="82ReKSbrG3v35rGef4TGIDAsbow2gXU4sT9Hsk2P3FYOn/WdloetzfCQ9bQ5cmtypo7Iv42OHiVRdG6kC7oNxufiEejEBrHCt4SNCEVcxltccmoQB+R9TRHbytaN1ytK66UhkVKunUg8fcmTS3gVno1ty17GnPtt7ASKqqpaSLQ/qt8Ff1kKhhhDy3c4ShdqQ08PmBzb3xXHziWHaCWs1O30/CzplM5swsGgvhD1cuRwNUfBBViEFEETjTTfko2bHbOUUTQEN2XMOtxujSSK6R9mxJTvEpPq3hMnkeWjaD9MbqcMqEkgbEc32NiTTnvqkz8m3eRcJ8vfruM1ss8f1LpmeWNfgD0xaajsWPUYBEc1ISEOWtJqLdNWBWEBRNFtHrVpPUhImAe04ehw+h7Jfeymkbrd7YOsm+OKO5r5vh+9EcBfgfofA/WAys3m5aP+R0pqpRofbojq2csLPKf3rHRYnAhIeV45N6lpekRpzB4=" />
+<input type="hidden" name="meta" value="xrhXtFxJXwlp86LxkG30LQEwn1TBVB4pGFyGQj/5FpdF/IZI5Ie1cbGlaG7ZOVKrIolOy2m5sAbXjTBarbDGBirrTbWsJ0LKdwdRATYcf1BAGLeUtUm7N+7hARjaNzpX0B0xOZ8IAtqJHEESUfwfjMQvXmufTrA4myHoRSbi7FKBkCcjdvqcE03sq6uRqcsYg3y+3GPtwNWJQ3s04Dnmfj3+NE6dEsvf0MFyNhoVZXbDPZE+bbMU6jxgLKznUO9VgYfDNu2KaEDeKYmUmiysnmOYuf5PetPEWrnnBAgzorhtAIlEVRYCF9e20Ue+D4bdxm7ZF7zETbg7GZHxiPr6/XhRgWpB4fTwatPGRFC9+6/JiAAuB2l/hog5jZP5+qdIQRcVx+pqwAAwgfwaQgmcX9d7msfq9d6qvyRlqe98pnSUGsYon0Jll27sTQGoVm4wt3P2KN//R7ZWRy9ku7yf2G8xDQhtzkuLdvZtzMYwCgw=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="6274daa6decb4925e5c463f152c3ffd0d5c92785" />
+<input type="hidden" name="csrf_token" value="d0403022907dfe719de955f5d49a0828dee8d46d" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
+                        	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Southern Railway Tap House</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
-                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>The Urban Farmhouse Market & Cafe</h5>
+							<h5>Capital Ale House (Downtown)</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>FREE BEVERAGE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
                             <hr>
-							<h5>Caribbean Chef</h5>
+							<h5>Gold’s</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
-                        	<h4>FREE GENERAL ADMISSION</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
+                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
                             <hr>
-							<h5>Science Museum of Virginia</h5>
+							<h5>Burger Bach</h5>
                         </a>
                 	
 	                    </div>
