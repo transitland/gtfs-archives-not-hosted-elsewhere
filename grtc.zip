@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <title>GTFS Files Download | GRTC</title>
 <meta name='keywords' content='' />
 <meta name='description' content='' />
-<link rel='canonical' href='http://ridegrtc.com/gtfs-files' />
+<link rel='canonical' href='http://ridegrtc.com/gtfs-files/' />
 
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="UeUb9kudjWZZxXi7cGaAqTZU1y5v3pfPJuSbL4tBtdMYY8qbGF16nw7YkG841QC57g2PX2wGgwrOwHu/4X8FhUj/teU9aOqOL/gdvAjs3vVMxAh80rjf8zvUTMoqGnKboqrV1wiCnaovh+NBw6dJ/U03bbHWDRaI2y8Xaf53CqgNfQ8SvaddmnX0yWTd5YUvMKIbbBs56h03BGQlQsviNHQJ5ew2Bmdm4Gvfr3F6GhMefa9OT4965Dm/Qm0e4ASGblph/Gv+rnTlF6Fz9w6vZHsloleisCyteJ4uCzbQWNmIHGml9lnmDfkefln5K0XWdcxWGJkNrhObtkUcOvMZLDcOwsPEG8N5MAKODF0jeagyBhxe2v7l5zPJcKImPfHL0P9ld8O6l5wRgpiOHjGm/qXnzxg3GWmBl/qMiGsNeGtSQzCavZ3QV/n9iQDJCregcpIH1zQNWtvcmQyv3N2FAVwmtSND7T8CW+Euz5vJvdQ=" />
+<input type="hidden" name="meta" value="L8AyJescQSNJwdZhgYSRoIn2r2k+jAMIQgXymg5ql7par9p7m20ivVzevC0ZN+4qZZs7BBOPQwrsbH/haMdfex2y/YESGhHr5JtJVhbMwBmPUX6oBTtBfQ0dmB3UfozHu4RatzXqzJp9v1KKE4YSjwCkAsAPXR0M21RYy1Tpe37sMkdGvKt0QliGmK84JyPXIV4JVcpfELnFknv7aVf0bx4YMmLMcB1M0O+7N1KqFwuIMYRQ5eVtWxezZMKKuLe0c4vMW/R+x0GR8lB4DAeKAN+7XDMA9IVeR1rqH4JngDtD/Klr5K+OIAykew3O0pYbd8UsqpqAn1AfAOHYpKDDNM9Iie3qp+nTJJf9RBE7c4O0XbdfdGzSQY6VdG8sQM8nXgoCdsIr1JvX0ay0GZl1D0tFrSW2G+P7+GFXmgsxJe+7rSL1yZ9G/czWl6mp2cxWbs9RJEik7/Wq6xUYZshKCU3UmpYXY9WgpshGEER61gs=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="0611f6f1751e8231af299d2fca06fbb32287be29" />
+<input type="hidden" name="csrf_token" value="9c1b4b3aef0906989bd39a83bf3fc714ba1825c9" />
 </div>
 
 
@@ -444,17 +444,17 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
-                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Richmond Flying Squirrels</h5>
+							<h5>Sahara Cafe and Grill</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
-                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
+                        	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
-							<h5>Island Yoga Fitness</h5>
+							<h5>Southern Railway Tap House</h5>
                         </a>
                 	
                     		        
@@ -465,10 +465,10 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
+                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Island Yoga Fitness</h5>
                         </a>
                 	
 	                    </div>
