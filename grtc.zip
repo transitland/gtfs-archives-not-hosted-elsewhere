@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="L8AyJescQSNJwdZhgYSRoIn2r2k+jAMIQgXymg5ql7par9p7m20ivVzevC0ZN+4qZZs7BBOPQwrsbH/haMdfex2y/YESGhHr5JtJVhbMwBmPUX6oBTtBfQ0dmB3UfozHu4RatzXqzJp9v1KKE4YSjwCkAsAPXR0M21RYy1Tpe37sMkdGvKt0QliGmK84JyPXIV4JVcpfELnFknv7aVf0bx4YMmLMcB1M0O+7N1KqFwuIMYRQ5eVtWxezZMKKuLe0c4vMW/R+x0GR8lB4DAeKAN+7XDMA9IVeR1rqH4JngDtD/Klr5K+OIAykew3O0pYbd8UsqpqAn1AfAOHYpKDDNM9Iie3qp+nTJJf9RBE7c4O0XbdfdGzSQY6VdG8sQM8nXgoCdsIr1JvX0ay0GZl1D0tFrSW2G+P7+GFXmgsxJe+7rSL1yZ9G/czWl6mp2cxWbs9RJEik7/Wq6xUYZshKCU3UmpYXY9WgpshGEER61gs=" />
+<input type="hidden" name="meta" value="Q9H3l5t51wISwHTNk3OgDTcDqYPDDUgLsxExRPnO3iMGkM1a5vk/4ac7TdaO2674w1ZEIhBqPObQ7jTOK6sg3bzT9hecNEbs/gaDfqqfp79/7wfOVqSTbuhHjN/tBaIqQdTCWRjUXH0VwGaXSvUwP0Ar4PiyWDbayTVd15lJ2k0oSkMMb8fYp3SZuEmrpqXuHj3qTR6rGOQZGjKGz6wNOnxuhEcCu99lKR10R1MRid7TwCykzqQMNAsVabaNKvjvgBUIZFktiBDuo4C8b+481K1NNsviydkoZ+BKNSutl6N9YZq/9fmuJI6f3GR9gToldxXDVvslqG+6W0YGkb9NyuAJQCiPpyqFHk0u1BXdcCcqAlHfMiZEh8jLqrL5NYsCTNrvt7RXpmO29sVYQNZoVNcjr8mVlf/LfljtiEoD/V2Fl34Y6OY888H7RZQwWnth59y6A9LDTzXVn8g7fEKXl2bsNCLfnodHnE3tNKKJPrY=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="9c1b4b3aef0906989bd39a83bf3fc714ba1825c9" />
+<input type="hidden" name="csrf_token" value="3a4a96e2da020683c412ca287b27a358a82acc97" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
+                        	<h4>$1.00 OFF ANY SUB</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>Albert’s Pizzeria</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
-                        	<h4>10% OFF FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Southern Railway Tap House</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
-                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
                             <hr>
-							<h5>The Urban Farmhouse Market & Cafe</h5>
+							<h5>Gold’s</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
-                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
+                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
                             <hr>
-							<h5>Island Yoga Fitness</h5>
+							<h5>Burger Bach</h5>
                         </a>
                 	
 	                    </div>
