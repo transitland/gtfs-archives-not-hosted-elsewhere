@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="PgnrtwAA9LfJLi5mPqZY2XbcMZkoZUlWkDtLJnEVWeHfTogN5KlfEit3IQw5JV1f7GWsHqmXwrbNrVWjK7fVcMd0ROq1WytiG0uAMWTBJuiFw1z++ZGrat/eifHjFGI7leoZsgeSXrB/ruaGgBWpyfKXMw6cQiulruT2LylIXoaBOU4z/c6GgE3N7KqBCWs4qMhHO5/PoALGgkheE7RxJOYu8WXnkSryVR2ggPuhuV4NtF/VVthXhc36q264XjDqioQKXquugHIp+yBViX+MLPdby6Qa9cEH9+HAxjI3c1EEmaaUijpbJo1CHzEH0XHfmqqXlpT4aPgYMvb0Hs74gPt85ZyhRvn5jc0tVOhNZX6o6KxFXYS4ZdDrrbWzklWXArCpkfKFMn9i9+D5BJ9OcnikO7tYtE/ROYJuH+lBnobeckbEW/MWo5GLtCi4FePVoZoD3OF6tZQQaSoS2bbYQfOjjj1uMKKtJoItzPLCGss=" />
+<input type="hidden" name="meta" value="IgAN3gGPu5vMmaAKsV8IE2Q+NZEiJOxJ794gfaw0C4KdxLkuVz82SdpME8VUFchlpFZ4O3r6SLiNS5k7OMPIzhDpsIJy7jHbjUzGkRgHnyM7Oei7bxnq4WJ7Bo5Xx3RQ1u6o5Ux9B4AHWgtr4Tr8Olpm0A3fnGNnCfShqaDxK7d+nJ0cBn8mWvwIceBEJ/AgAX6kdWRoDZf/9Hnp7t2QO02YUWq7eOJBO/+EgkVhimT3q7UuzpYgUIl1XxS+FCRBBaOqx/WUgd1xkud8yf7UiHWxYvXOLhuRfyx3Elhs5H9w9bg0/irt9ikjaxjFu3K/m+rDE4FB+G8VBn+a3XdwIdi49Wv8bSYXB+8/IfnqNR696bwpDCdeHIYUf9XNlkp8DL2M0idBcplVkcGt+qPB9olmBuTXCk8HRBcTnOpOYKtxJsldFxAkCs2HjT6Oci4ytAvZBor1Usv71SfB2GiHSwvec0ZBniRburSp6H3Ls/U=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="d55e802aad71e9ce645819fce2ee123f61a676d3" />
+<input type="hidden" name="csrf_token" value="fa05c4ab60d870a54ae6aa52a8f140879d9af19a" />
 </div>
 
 
@@ -444,17 +444,17 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
-                        	<h4>$0 TO JOIN!</h4>
-                            <hr>
-							<h5>Gold’s</h5>
-                        </a>
-                	
-                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
                         	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
 							<h5>Island Yoga Fitness</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                            <hr>
+							<h5>Sahara Cafe and Grill</h5>
                         </a>
                 	
                     		        
@@ -465,10 +465,10 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
-                        	<h4>FREE 7 DAY GYM PASS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
+                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
                             <hr>
-							<h5>Anytime Fitness</h5>
+							<h5>Burger Bach</h5>
                         </a>
                 	
 	                    </div>
