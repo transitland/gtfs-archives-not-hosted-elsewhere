@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="IgAN3gGPu5vMmaAKsV8IE2Q+NZEiJOxJ794gfaw0C4KdxLkuVz82SdpME8VUFchlpFZ4O3r6SLiNS5k7OMPIzhDpsIJy7jHbjUzGkRgHnyM7Oei7bxnq4WJ7Bo5Xx3RQ1u6o5Ux9B4AHWgtr4Tr8Olpm0A3fnGNnCfShqaDxK7d+nJ0cBn8mWvwIceBEJ/AgAX6kdWRoDZf/9Hnp7t2QO02YUWq7eOJBO/+EgkVhimT3q7UuzpYgUIl1XxS+FCRBBaOqx/WUgd1xkud8yf7UiHWxYvXOLhuRfyx3Elhs5H9w9bg0/irt9ikjaxjFu3K/m+rDE4FB+G8VBn+a3XdwIdi49Wv8bSYXB+8/IfnqNR696bwpDCdeHIYUf9XNlkp8DL2M0idBcplVkcGt+qPB9olmBuTXCk8HRBcTnOpOYKtxJsldFxAkCs2HjT6Oci4ytAvZBor1Usv71SfB2GiHSwvec0ZBniRburSp6H3Ls/U=" />
+<input type="hidden" name="meta" value="awUbJG9EStMRE90YznYWkNzA4rpdfrXnWwfQoLKniNSeI/gd4f6iur5xOwxq2OaYntSsR/VP8TBb9K/hxUHvQi+JvzcCQ6r9EZ0UQaoO9bTM14soQ/T+UYGK0QK0+1AyNrVTIpdrWQr7jMzaajOWdb7/5ZQz+4eWm+zWS4E9wn/UzV4n3AWYphK4AWNmsvlFFy/2jtM9gOA4MzKWM6eBrcuYaeY+ejK2vW1urrDG6msCDOJBSH2VVS9hpe+Nn2zX5OAEyywZeiX9ldkS/4371/hA7JNQxvBNZ69EKsFPUVHJ4kTGlLaWsYZ5yb2B2nuUSlJp2iWWYm7UrMcrFhU7oQiNzwiLGp0edMt3F8kvApWxnYuwKDzGnxx+irZbqrbehUYbIq9UE6g3vGVnEGQYT8az5A6ySAZi7maZCeg+1bPcc0DO8Mx1oIuTfJ63/ab9poy/Dy7ThyACFomCA/2rvoAduPhjmSXZwYvZhyzdweY=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="fa05c4ab60d870a54ae6aa52a8f140879d9af19a" />
+<input type="hidden" name="csrf_token" value="8357a352a9b728e2652cc159f9547c032194664a" />
 </div>
 
 
@@ -444,6 +444,20 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
+                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
+                            <hr>
+							<h5>Richmond Flying Squirrels</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
+                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                            <hr>
+							<h5>Segway of Richmond</h5>
+                        </a>
+                	
+                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
                         	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
@@ -451,24 +465,10 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
-                            <hr>
-							<h5>Sahara Cafe and Grill</h5>
-                        </a>
-                	
-                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
                         	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
                             <hr>
 							<h5>Pedego Electric Bikes</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
-                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
-                            <hr>
-							<h5>Burger Bach</h5>
                         </a>
                 	
 	                    </div>
