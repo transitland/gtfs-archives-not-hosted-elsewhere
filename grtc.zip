@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="awUbJG9EStMRE90YznYWkNzA4rpdfrXnWwfQoLKniNSeI/gd4f6iur5xOwxq2OaYntSsR/VP8TBb9K/hxUHvQi+JvzcCQ6r9EZ0UQaoO9bTM14soQ/T+UYGK0QK0+1AyNrVTIpdrWQr7jMzaajOWdb7/5ZQz+4eWm+zWS4E9wn/UzV4n3AWYphK4AWNmsvlFFy/2jtM9gOA4MzKWM6eBrcuYaeY+ejK2vW1urrDG6msCDOJBSH2VVS9hpe+Nn2zX5OAEyywZeiX9ldkS/4371/hA7JNQxvBNZ69EKsFPUVHJ4kTGlLaWsYZ5yb2B2nuUSlJp2iWWYm7UrMcrFhU7oQiNzwiLGp0edMt3F8kvApWxnYuwKDzGnxx+irZbqrbehUYbIq9UE6g3vGVnEGQYT8az5A6ySAZi7maZCeg+1bPcc0DO8Mx1oIuTfJ63/ab9poy/Dy7ThyACFomCA/2rvoAduPhjmSXZwYvZhyzdweY=" />
+<input type="hidden" name="meta" value="l+N0CtjioNRvACE4b3OrW0ZJw64F5ePf0RX8swBvP9gBJWF6ssIlfaEFESDCy8QJ3hJSaJX8yTfayeoXEcQ52vNZT4qvp22gQ7KzOctSyZkEIToyDi7fQf/DukRJKz7HbykxazM6xruYOrhlpv2sG9dNX3jKjpAu3a2wp4vbKKqxTlK3hbn1PMySpMO8IrWNDFOMu7KwCtUFrYOhCKn/n2sU4cxGyGFNoDktawJ/q3f0Ae5HgG1fsW3g/9qKhBCe07ywhFKbl+F1yqMTftBHcB6GtinWEmvFi4VngLxuB6yS6I6/5bIyD0RAZE/ETue/qZ4mMJ3vzoy1XGDUmEQthCX/B+fJlru1jtj3zZlKQNR76KDzpcdtfB6twfBKt0W/GJHyT9VYKjO/CZYcJXE68bjF0mHjLmfXPdfi2cSsHtdT9dVUInyZ7umLl4Q+BMe/+ER1oHHVB/3CQW9ru3wLw+2peHEXuvZWdimobF1BamM=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="8357a352a9b728e2652cc159f9547c032194664a" />
+<input type="hidden" name="csrf_token" value="45a4c01bbe8f4c8e93c839cf1453ee7904a1e5e0" />
 </div>
 
 
@@ -393,7 +393,7 @@ function googleTranslateElementInit() {
             
                 
         <div class="announcement yellow">
-            <p><b><a href="http://ridegrtc.com/news-initiatives/news-updates/christmas-2022">Christmas Day:&nbsp;Sunday&nbsp;schedule. No&nbsp;express service 12/26.&nbsp;Click for Info.</a></b></p>
+            <p><b><a href="http://ridegrtc.com/news-initiatives/news-updates/new-years-day-2023/">New Year&#39;s Day:&nbsp;Sunday&nbsp;schedule. No&nbsp;express service 1/2.&nbsp;Click for Info.</a></b></p>
         </div>
     
             
@@ -451,10 +451,17 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Sahara Cafe and Grill</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>FREE BEVERAGE</h4>
+                            <hr>
+							<h5>Caribbean Chef</h5>
                         </a>
                 	
                     		        
@@ -462,13 +469,6 @@ function googleTranslateElementInit() {
                         	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
 							<h5>Island Yoga Fitness</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
-                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
-                            <hr>
-							<h5>Pedego Electric Bikes</h5>
                         </a>
                 	
 	                    </div>
