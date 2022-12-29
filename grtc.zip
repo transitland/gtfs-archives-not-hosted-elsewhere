@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="l+N0CtjioNRvACE4b3OrW0ZJw64F5ePf0RX8swBvP9gBJWF6ssIlfaEFESDCy8QJ3hJSaJX8yTfayeoXEcQ52vNZT4qvp22gQ7KzOctSyZkEIToyDi7fQf/DukRJKz7HbykxazM6xruYOrhlpv2sG9dNX3jKjpAu3a2wp4vbKKqxTlK3hbn1PMySpMO8IrWNDFOMu7KwCtUFrYOhCKn/n2sU4cxGyGFNoDktawJ/q3f0Ae5HgG1fsW3g/9qKhBCe07ywhFKbl+F1yqMTftBHcB6GtinWEmvFi4VngLxuB6yS6I6/5bIyD0RAZE/ETue/qZ4mMJ3vzoy1XGDUmEQthCX/B+fJlru1jtj3zZlKQNR76KDzpcdtfB6twfBKt0W/GJHyT9VYKjO/CZYcJXE68bjF0mHjLmfXPdfi2cSsHtdT9dVUInyZ7umLl4Q+BMe/+ER1oHHVB/3CQW9ru3wLw+2peHEXuvZWdimobF1BamM=" />
+<input type="hidden" name="meta" value="rpYfwcf1Vys26fYYfwmEaZHvxvEj0H+cwWXKEOWu4B4NVc3eb7OuAjXQl9SoGBpEBD1c2qEyq3DjM58kuGUA3W/myqxNNtyvVSis5mNe72Lg4uRhQCX5giNgXIF/4FaHWNWdZ2tpjgCBIIcE5fmtUnNHJBwmGLzOc/Mj029SQNQOuas3OtYGV+oIwo8u3cG5QnRG0E8zB8FeYGFEZhZt8Z+8uodvDp4vFcM3iyRXIClV3IYkW4/gCJT7DtV1GbQPwjH0x4kYbEK5AbywoZ1IHl96VvoCUIUdz8t+qu7a6HTp8scowyXAhWtlNJwwPaWoeaFOVH9PebDXcaoBVWx04AFavbbMcwBkOQgyHL0eIaoIel2dVQ9iVvRuYUwzf61ztEJelVN8YKr64wqOATG4PkFAka9JOT3q9/lmAPH1cnYbsXce5XF8GMVkykiAoZ1ET83oSmV/V6o8lXCwNL46e6oLxi/fmnzOtl25wonH2Iw=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="45a4c01bbe8f4c8e93c839cf1453ee7904a1e5e0" />
+<input type="hidden" name="csrf_token" value="fc58b9ae093c1dac4ba9e11635deee88eae829d8" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
-                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
+                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
                             <hr>
-							<h5>Richmond Flying Squirrels</h5>
+							<h5>Segway of Richmond</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>Magaritas</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>FREE BEVERAGE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
+                        	<h4>$1.00 OFF ANY SUB</h4>
                             <hr>
-							<h5>Caribbean Chef</h5>
+							<h5>Albert’s Pizzeria</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
-                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
+                        	<h4>FREE 7 DAY GYM PASS</h4>
                             <hr>
-							<h5>Island Yoga Fitness</h5>
+							<h5>Anytime Fitness</h5>
                         </a>
                 	
 	                    </div>
