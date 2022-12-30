@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="rpYfwcf1Vys26fYYfwmEaZHvxvEj0H+cwWXKEOWu4B4NVc3eb7OuAjXQl9SoGBpEBD1c2qEyq3DjM58kuGUA3W/myqxNNtyvVSis5mNe72Lg4uRhQCX5giNgXIF/4FaHWNWdZ2tpjgCBIIcE5fmtUnNHJBwmGLzOc/Mj029SQNQOuas3OtYGV+oIwo8u3cG5QnRG0E8zB8FeYGFEZhZt8Z+8uodvDp4vFcM3iyRXIClV3IYkW4/gCJT7DtV1GbQPwjH0x4kYbEK5AbywoZ1IHl96VvoCUIUdz8t+qu7a6HTp8scowyXAhWtlNJwwPaWoeaFOVH9PebDXcaoBVWx04AFavbbMcwBkOQgyHL0eIaoIel2dVQ9iVvRuYUwzf61ztEJelVN8YKr64wqOATG4PkFAka9JOT3q9/lmAPH1cnYbsXce5XF8GMVkykiAoZ1ET83oSmV/V6o8lXCwNL46e6oLxi/fmnzOtl25wonH2Iw=" />
+<input type="hidden" name="meta" value="GDqe+SKQEaj93vtZ7I5FmoSlv0Mmab1L1mn8mNSVPW8oAkfF/Bj2+K/Tgk0xBBGk47F8W+RBs+AXKeZChm+r7Nz1Qd1muukH2kSjb2KaLUdNkMVJdXDkStD8pXAvRYSLcLPRZbQPixGFxvqAo+9KAtlcJeJVZ7GktVvFUYt7OTrc3uM0r4cRY9f2xM6dy/RkJXJ8Uxh5nmq99PBazDftuiEaKz+yiXPhiE4WVLL1oYCDXCr7YotrkAZAabTEbl3K1UggD8f5jMy8Z2qZ2bMey92OFDf2qa+Hlfor3HjRemvA797eQgzHYlfhbZXdDK+ZMo8GCU3OSURfsiQ7iuWn4bk1dSyoZatvMhaAnX6WjlF5Sp6/+VDmIt67SPphFXjcTCqPAs0i6ZWPt7dZ2YxiGd21oylbhU4NIskxZOgoy/H3pmJnhV0T0oK+M/K5JtT0YPbkjCOZNuVxPnps7Av6S+tGuHvgo81f9s0y7GtASoM=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="fc58b9ae093c1dac4ba9e11635deee88eae829d8" />
+<input type="hidden" name="csrf_token" value="7a16c69cf8dbea1f060e6d2e71c68005484d6d72" />
 </div>
 
 
@@ -444,24 +444,24 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
+                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Island Yoga Fitness</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Magaritas</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
-                        	<h4>$1.00 OFF ANY SUB</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
+                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
                             <hr>
-							<h5>Albert’s Pizzeria</h5>
+							<h5>Pedego Electric Bikes</h5>
                         </a>
                 	
                     		        
