@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="h/DwiaU2vgiBjgWrqmJUC2j5wolndgwyk/uWLFWYbIvCx/IN3TVOIpc5UE/vf7OOuk1OBHYSYfTY+hu7Lxvfzzcv0z/gKBn0V7DvE2QAwJv8vvJG1sXWfpM5vYAHBMP3/j/1zQSrFAie+ZoqFW24Ok6/MuQmH16TOcbk9KmumNa5Cxe1wT3z/yATQMOQAYnLVA0cjoVK+8LgkZ5MSZXKyhFmbH6gfTvafims+Gue8PzpjBjHdpTUAmv62D0xn2TwbJln2CAz1cR4wAHNKEL0883G5SlE1/2RGHrQSMrPfcaRODzxLgUdKi/AOHX4BQpk/snu+w6vquyuLCyqmFPZcdj+IT3ggnq7U9eqXHysjm3W+yDxIcN0JBczWTCrXucCCV+eV6LIOtbWy0x3Eyuhr88EbD4XvwEW5abglIew9Cp8NDpaS0tGvLClDGk2ywgfjTrgHNY1g+FJrLqPSabGY2Kk7poD9qlU1Du0yRnEbPQ=" />
+<input type="hidden" name="meta" value="NacDi5Lm/vDpYx6GuJNNgugHXY/hj+s5daL9JM3OqJEbV1FRCdFMX+u9g0DWfOV4wOWB5WiavCmEOvQb4MU1IdT/+mp5haS/+LrViF6DuLBc1VCPBo3m47CYfcxBW+iGZ1XUYd9ax3LkxsUZKClkVmNqyVotEY5HJwmN+1pt+yeiEq3I2TTHO2y5t6RcNcLlrdw5GyJYZAfPSx4fXTtC1SQYm/e4tXNvbfh0cnNQazxY2PohovJe78CsjDvrX6BwDTHcA1aSMI+Pmim7LHJB5uRmpJBMa4qquzFM/0k/6WDTL8GnV1WyYazecmPLffWLbxJ9hZWcxF3k3EKBASmCdjWnxLTmeMPMDrmxWwlrfm1fUm4Fe1P18Wt5PTeCI7P161TjQqL0oucQTULd0THWmFj1wfwn6T86bFergjrzHja+0z7jrdMipFqLePVJd9pddWGd8EyDyoLMjx5vITLmyThvHHXZ/oPb6MAkpo7orHk=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="e8d7ce31caff2e0f58073e8fd6890bdeb9bfeacd" />
+<input type="hidden" name="csrf_token" value="5680ef9e88158d3d62c8ccd7ca81501f67bb30c0" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
+                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
                             <hr>
-							<h5>Magaritas</h5>
+							<h5>Segway of Richmond</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
-                        	<h4>10% OFF FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
+                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
                             <hr>
-							<h5>Southern Railway Tap House</h5>
+							<h5>Burger Bach</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
+                        	<h4>FREE 7 DAY GYM PASS</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>Anytime Fitness</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
-                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
+                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
-							<h5>Pedego Electric Bikes</h5>
+							<h5>Island Yoga Fitness</h5>
                         </a>
                 	
 	                    </div>
@@ -480,7 +480,7 @@ function googleTranslateElementInit() {
             
             <div class="large-8 columns contact">
                 <p><a href="tel:8043584782">(804) 358-4782</a><span class="vertical divider"></span><a href="mailto:webcustomerservice@ridegrtc.com">webcustomerservice@ridegrtc.com</a><span class="vertical divider"></span><a href="/need-help/contact-us/">more contact info</a><span class="vertical divider"></span><a href="/about-us/employment/">careers</a></p>
-                <p>&copy; 2022 GRTC Transit System</p>
+                <p>&copy; 2023 GRTC Transit System</p>
 		<p><a href="http://grtcbid.ridegrtc.com/bidweb" target="_blank">Operator Bid/Bid Web Login</a></p>
             </div>
             
