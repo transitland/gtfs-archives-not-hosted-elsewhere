@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="NacDi5Lm/vDpYx6GuJNNgugHXY/hj+s5daL9JM3OqJEbV1FRCdFMX+u9g0DWfOV4wOWB5WiavCmEOvQb4MU1IdT/+mp5haS/+LrViF6DuLBc1VCPBo3m47CYfcxBW+iGZ1XUYd9ax3LkxsUZKClkVmNqyVotEY5HJwmN+1pt+yeiEq3I2TTHO2y5t6RcNcLlrdw5GyJYZAfPSx4fXTtC1SQYm/e4tXNvbfh0cnNQazxY2PohovJe78CsjDvrX6BwDTHcA1aSMI+Pmim7LHJB5uRmpJBMa4qquzFM/0k/6WDTL8GnV1WyYazecmPLffWLbxJ9hZWcxF3k3EKBASmCdjWnxLTmeMPMDrmxWwlrfm1fUm4Fe1P18Wt5PTeCI7P161TjQqL0oucQTULd0THWmFj1wfwn6T86bFergjrzHja+0z7jrdMipFqLePVJd9pddWGd8EyDyoLMjx5vITLmyThvHHXZ/oPb6MAkpo7orHk=" />
+<input type="hidden" name="meta" value="plkEz1GHqmazH+yZTOJk1ry6WUi+rNSNGq6tyoxDUE5z7dY/2ehrlddDyeovO3Cjt7jzyZ3i+ZnjMo3UFa0uDsnmSOMk/e97BdaWQWxjvidZAuqnSmnakNLzed/AMgXM3FiHIMOWTMKOL0YReVPbyqCQ84OGv80j6Q+zAzUoxJTJz6TIdXvkLv2m7MbvXAik1KED0vWjhQ66MLLU4ft1GeMBTANsqy8l/bq8LVZEsJ45g8SBj5bKZ5cv9lCmNs69pgBEVXoCkDMAXJGH9EjWfO2qeFKHXYI+R8XGPnACgpo92UE4gei2Gfoz7h/JPcyyGPIO/VEu/hsEPpMSfz5tn/xzOCeyNkNHkDaZJwTY7cZiZUV9IjH2tuOZm11TupDBw9rLUIyemivF3Jg3TXjx3DVGenp3n3FFONmRD6mUjiIhU3NyHsKVXjulG8NepOpEqbbUda32zodaW3k/1or3wVuelI+xXs5V4/UckxKf2E4=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="5680ef9e88158d3d62c8ccd7ca81501f67bb30c0" />
+<input type="hidden" name="csrf_token" value="91970e6398bfdb1d9aa04464fa8602bd1acddd0c" />
 </div>
 
 
@@ -444,24 +444,24 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
+                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
                             <hr>
-							<h5>Segway of Richmond</h5>
+							<h5>Richmond Flying Squirrels</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
-                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
+                        	<h4>25% OFF ANY TROLLY TOUR</h4>
                             <hr>
-							<h5>Burger Bach</h5>
+							<h5>RVA Trolley</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
-                        	<h4>FREE 7 DAY GYM PASS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
                             <hr>
-							<h5>Anytime Fitness</h5>
+							<h5>Gold’s</h5>
                         </a>
                 	
                     		        
