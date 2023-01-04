@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <title>GTFS Files Download | GRTC</title>
 <meta name='keywords' content='' />
 <meta name='description' content='' />
-<link rel='canonical' href='http://ridegrtc.com/gtfs-files/' />
+<link rel='canonical' href='http://ridegrtc.com/gtfs-files' />
 
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="plkEz1GHqmazH+yZTOJk1ry6WUi+rNSNGq6tyoxDUE5z7dY/2ehrlddDyeovO3Cjt7jzyZ3i+ZnjMo3UFa0uDsnmSOMk/e97BdaWQWxjvidZAuqnSmnakNLzed/AMgXM3FiHIMOWTMKOL0YReVPbyqCQ84OGv80j6Q+zAzUoxJTJz6TIdXvkLv2m7MbvXAik1KED0vWjhQ66MLLU4ft1GeMBTANsqy8l/bq8LVZEsJ45g8SBj5bKZ5cv9lCmNs69pgBEVXoCkDMAXJGH9EjWfO2qeFKHXYI+R8XGPnACgpo92UE4gei2Gfoz7h/JPcyyGPIO/VEu/hsEPpMSfz5tn/xzOCeyNkNHkDaZJwTY7cZiZUV9IjH2tuOZm11TupDBw9rLUIyemivF3Jg3TXjx3DVGenp3n3FFONmRD6mUjiIhU3NyHsKVXjulG8NepOpEqbbUda32zodaW3k/1or3wVuelI+xXs5V4/UckxKf2E4=" />
+<input type="hidden" name="meta" value="tH/vUFQ73AZ6ObBB0AG3c3TJPojzLQm9wa3IDHr9rhLVUyKvnCkvdKazFETQg25n1VylJMZWNnmK/nloTLpsku9HQuM0YM6pp1wn054+MgD2Qyfmoxk9hzi1Tn4yRkEhM4v9j3RplkRwJHsLzdo8Aw+Gj+DRy+z4Dy8acq0HGxkxmslZ+YuVmrAHo6zLH3JDklN2dHJtf213zMpHfU+LBdw2V/NWS6ToBEfe03f8TrQvhAJHC3pTSR/2vHwycPVqOdtXmoeUEel8WdhD9ZeDbDNiX0D6I7PWCn7Z7LUNVn8KnfeTWbV6HqMNYaQPRfQSFsKhQ6ErInYLP6VpRbRjN1zu7mfjNk0hm8MeAiKmpgaO5Wh818+T0QOYEqcXq+LOzCRJvqZL3rA1ERAUSGHLYQiNtnCnmQlCGPCTdlLfzzcXTtD5G0ocCSbgBPlvuFoHev96KnO/81WuMZJfb5QF5UAAxR4Y9TaNyy41T3SA+iQ=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="91970e6398bfdb1d9aa04464fa8602bd1acddd0c" />
+<input type="hidden" name="csrf_token" value="fcb9aa5a86639aa817dcfddd1ed647cf68e05536" />
 </div>
 
 
@@ -392,10 +392,6 @@ function googleTranslateElementInit() {
             
             
                 
-        <div class="announcement yellow">
-            <p><b><a href="http://ridegrtc.com/news-initiatives/news-updates/new-years-day-2023/">New Year&#39;s Day:&nbsp;Sunday&nbsp;schedule. No&nbsp;express service 1/2.&nbsp;Click for Info.</a></b></p>
-        </div>
-    
             
     	    <div class="container twelve columns">
             
@@ -444,24 +440,10 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
-                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
+                        	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
-							<h5>Richmond Flying Squirrels</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
-                        	<h4>25% OFF ANY TROLLY TOUR</h4>
-                            <hr>
-							<h5>RVA Trolley</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
-                        	<h4>$0 TO JOIN!</h4>
-                            <hr>
-							<h5>Gold’s</h5>
+							<h5>Southern Railway Tap House</h5>
                         </a>
                 	
                     		        
@@ -469,6 +451,20 @@ function googleTranslateElementInit() {
                         	<h4>FREE 1 HR FITNESS SCREENING</h4>
                             <hr>
 							<h5>Island Yoga Fitness</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
+                        	<h4>FREE 7 DAY GYM PASS</h4>
+                            <hr>
+							<h5>Anytime Fitness</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
+                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
+                            <hr>
+							<h5>The Urban Farmhouse Market & Cafe</h5>
                         </a>
                 	
 	                    </div>
