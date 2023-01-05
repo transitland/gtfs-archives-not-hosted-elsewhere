@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="tH/vUFQ73AZ6ObBB0AG3c3TJPojzLQm9wa3IDHr9rhLVUyKvnCkvdKazFETQg25n1VylJMZWNnmK/nloTLpsku9HQuM0YM6pp1wn054+MgD2Qyfmoxk9hzi1Tn4yRkEhM4v9j3RplkRwJHsLzdo8Aw+Gj+DRy+z4Dy8acq0HGxkxmslZ+YuVmrAHo6zLH3JDklN2dHJtf213zMpHfU+LBdw2V/NWS6ToBEfe03f8TrQvhAJHC3pTSR/2vHwycPVqOdtXmoeUEel8WdhD9ZeDbDNiX0D6I7PWCn7Z7LUNVn8KnfeTWbV6HqMNYaQPRfQSFsKhQ6ErInYLP6VpRbRjN1zu7mfjNk0hm8MeAiKmpgaO5Wh818+T0QOYEqcXq+LOzCRJvqZL3rA1ERAUSGHLYQiNtnCnmQlCGPCTdlLfzzcXTtD5G0ocCSbgBPlvuFoHev96KnO/81WuMZJfb5QF5UAAxR4Y9TaNyy41T3SA+iQ=" />
+<input type="hidden" name="meta" value="Ubxg6K55jfQIe1XS5MYB/o+vGV42DvEJSzWDwDPuj4uHcj0xA1uuPV68tImDQM66g7dgAluZMg+fJETGMgEemBbIbDwadK93cMVh1CA/7+AGIlC4jD1NL7QGxdc9iU+GIXiGRa71pUVEvWtRLzpHx8JMKifHExJpXfJyeF0zlNZnlbIRjKL4qN+AGDDSOg8gmLbr42ZpcaYpROprVbNK1u1I3/eu6qGl+HKLG/bBNtPk5H+nsw1UdVOAbtM09uDiNvRSsyLF5ZDA03it1BG5hC7mxWlHxWZrAoD/rQ0nN4f14a3nXrAA/0si4/tFvoGOMKEpnzSdRpARf9R3RdZdw6sVruzNb9ECpSsbm8mv9viLmIO3Dk7w/G0zKcc4gwQBJjsdTxfVD6tW3MYTDcvrhgvWFoxk6xPzM1r9nPD5Mgu6Hx4P6VDd54P55uLTLea1nIkILkgeV3dHHd5ihNTz7ikzFUu8kGF6MPRR60cjzYY=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="fcb9aa5a86639aa817dcfddd1ed647cf68e05536" />
+<input type="hidden" name="csrf_token" value="4103675a87b61b6b88840bd81993c6796994722c" />
 </div>
 
 
@@ -440,6 +440,20 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                            <hr>
+							<h5>Magaritas</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
+                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
+                            <hr>
+							<h5>Segway of Richmond</h5>
+                        </a>
+                	
+                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
                         	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
@@ -447,24 +461,10 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
-                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Island Yoga Fitness</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
-                        	<h4>FREE 7 DAY GYM PASS</h4>
-                            <hr>
-							<h5>Anytime Fitness</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
-                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
-                            <hr>
-							<h5>The Urban Farmhouse Market & Cafe</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
 	                    </div>
