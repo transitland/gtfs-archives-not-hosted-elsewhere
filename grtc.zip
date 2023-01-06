@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="Ubxg6K55jfQIe1XS5MYB/o+vGV42DvEJSzWDwDPuj4uHcj0xA1uuPV68tImDQM66g7dgAluZMg+fJETGMgEemBbIbDwadK93cMVh1CA/7+AGIlC4jD1NL7QGxdc9iU+GIXiGRa71pUVEvWtRLzpHx8JMKifHExJpXfJyeF0zlNZnlbIRjKL4qN+AGDDSOg8gmLbr42ZpcaYpROprVbNK1u1I3/eu6qGl+HKLG/bBNtPk5H+nsw1UdVOAbtM09uDiNvRSsyLF5ZDA03it1BG5hC7mxWlHxWZrAoD/rQ0nN4f14a3nXrAA/0si4/tFvoGOMKEpnzSdRpARf9R3RdZdw6sVruzNb9ECpSsbm8mv9viLmIO3Dk7w/G0zKcc4gwQBJjsdTxfVD6tW3MYTDcvrhgvWFoxk6xPzM1r9nPD5Mgu6Hx4P6VDd54P55uLTLea1nIkILkgeV3dHHd5ihNTz7ikzFUu8kGF6MPRR60cjzYY=" />
+<input type="hidden" name="meta" value="NA4Jxvpk0s0wzaPT8jpOC+7ff1NuZgEGuAGoCYGSP0E+/JdWi63qcmGKIWQn8xtjHrFzpCuR8oLNpGjEt6sC4SWK3G54tGghnLdonkjHXAhA6MfSeTJ47aeO/qpvvht6+BqXZYnZoGDppxly7HIZniMS7XVkOYCPa8NL+lT/fVyeqcamJoBwlKYIJwh1XqHb2LyOr6/E7zvRG5X+9vq397RvU5mmHJcBdveAEn2AhYkNuqaOpHfJP+W9vDj93Sj70HLYe87o/QePLbkd+byWVjFL9dLsPxzMzXFgDmiBGPWKG72qBlRXJp79Xvn+Nnb2f6WvROcVh3HLMR7oxCRfSvu2uiidvGvLWIbW3OU6/+3DIfbtkS0J/Q3RdldfvVXTttiy2erXwLDsqP8IK81nH+vhQWy3B4v8TuWy8GeLkNOC+/JsgAiiC87bZl45nOPA+QpndA13QMyzOre2uft2hz74j9SAZoV6LJ7P+phbCIw=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="4103675a87b61b6b88840bd81993c6796994722c" />
+<input type="hidden" name="csrf_token" value="fcd6204b826f730c6bd7b7ab63e9b35677e26707" />
 </div>
 
 
@@ -392,6 +392,10 @@ function googleTranslateElementInit() {
             
             
                 
+        <div class="announcement yellow">
+            <p><b><a href="http://ridegrtc.com/news-initiatives/news-updates/grtc-service-changes-january-29-2023">GRTC Service Updates Effective Sunday, January 29, 2023.&nbsp;Click for info.</a></b></p>
+        </div>
+    
             
     	    <div class="container twelve columns">
             
@@ -440,10 +444,10 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>FREE BEVERAGE</h4>
                             <hr>
-							<h5>Magaritas</h5>
+							<h5>Caribbean Chef</h5>
                         </a>
                 	
                     		        
@@ -454,17 +458,17 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                            <hr>
+							<h5>Capital Ale House (Downtown)</h5>
+                        </a>
+                	
+                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
                         	<h4>10% OFF FOOD PURCHASES</h4>
                             <hr>
 							<h5>Southern Railway Tap House</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
-                        	<h4>FREE GENERAL ADMISSION</h4>
-                            <hr>
-							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
 	                    </div>
