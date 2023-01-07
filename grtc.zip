@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="NA4Jxvpk0s0wzaPT8jpOC+7ff1NuZgEGuAGoCYGSP0E+/JdWi63qcmGKIWQn8xtjHrFzpCuR8oLNpGjEt6sC4SWK3G54tGghnLdonkjHXAhA6MfSeTJ47aeO/qpvvht6+BqXZYnZoGDppxly7HIZniMS7XVkOYCPa8NL+lT/fVyeqcamJoBwlKYIJwh1XqHb2LyOr6/E7zvRG5X+9vq397RvU5mmHJcBdveAEn2AhYkNuqaOpHfJP+W9vDj93Sj70HLYe87o/QePLbkd+byWVjFL9dLsPxzMzXFgDmiBGPWKG72qBlRXJp79Xvn+Nnb2f6WvROcVh3HLMR7oxCRfSvu2uiidvGvLWIbW3OU6/+3DIfbtkS0J/Q3RdldfvVXTttiy2erXwLDsqP8IK81nH+vhQWy3B4v8TuWy8GeLkNOC+/JsgAiiC87bZl45nOPA+QpndA13QMyzOre2uft2hz74j9SAZoV6LJ7P+phbCIw=" />
+<input type="hidden" name="meta" value="luAujFvJzD8YI6kjjQLvO1SmollzPdHpjU3KWyquosV3wsNx/EJDJXPRtxvYxGlN4xhiJ1JUbH97qZzZCgfZKFZcPJ41h/b+WKTrHt+sUA6nZ4d9PoIL+i7Zkb2Bj/yyNDmP11DtVvPIjmtTo89VNWdlG12S94+N3BetWdGUmvEPR5+brUFcN0/+pcJVKcVIME3HDEnH7oAVSsmqcDb8A20TYQWAtYQjZJgAdOTxMUD4vhBq+m8J1zbAWb6aalZRVRBsSbFsX8wEvMoNcTrfQ57WYfao2vQt8MJpeWf9juyJU2UZVqKl9d/NHmQmpvLSj+HDkH2uqPmea4y5NZfe7PQ6GfykuyAvj9yKByRH+E+hJLjFzZ6VZoA2+JfG0hZH8zY+rQ+PaFGbT5QDXamZEVTpiBW2EFRDP6BGmunvyulj14ITnv4zboACGY+k3VI+fyQPwV4q8WpZkRE40jf+H7hVwEYyTvtUPjr7JzR9O1M=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="fcd6204b826f730c6bd7b7ab63e9b35677e26707" />
+<input type="hidden" name="csrf_token" value="9d125253356b4e41dbfffe4f45212ea704acc5aa" />
 </div>
 
 
@@ -444,10 +444,10 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
-                        	<h4>FREE BEVERAGE</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
                             <hr>
-							<h5>Caribbean Chef</h5>
+							<h5>Gold’s</h5>
                         </a>
                 	
                     		        
@@ -458,17 +458,17 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
+                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
                             <hr>
-							<h5>Capital Ale House (Downtown)</h5>
+							<h5>The Urban Farmhouse Market & Cafe</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1084&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/SRTaphouse_Millenials-sm.jpg');">
-                        	<h4>10% OFF FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
+                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
                             <hr>
-							<h5>Southern Railway Tap House</h5>
+							<h5>Richmond Flying Squirrels</h5>
                         </a>
                 	
 	                    </div>
