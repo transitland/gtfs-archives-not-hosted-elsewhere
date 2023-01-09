@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="9+fLY8hqRQf45zcy0O8yuSkXHwj/S7RscZpV0v4S/FylWc3Z6Cy+dqojMnd835ea8p8R93vNOavi8L+e2z715L75JVJngwfnThiKAaeV0dJHCP21nk5BSkn9hiQ4rlmkxwxxiR0R4Dt2v3WEqPPIpBgQTiF0GdOxL/FG1Mg1DrnbXJ5GvmjC02Ldal+QBVQ9ss1A1lzqlAFoCwmp8mlmV/6pi7tm1GvZR4DbSjd1F4auzAMfkEGg4+DcE66EP7eviQR2GzBJubNFwx3q0JEqXYN5AUFegnABN+ROFNriYVG2GzKqzSg+x4HNke/vidDqV2MplghaV8/sLKiW6Hz+1/Pwmcid1Kw89OihLxjfZY+y7U7Zb90fgaKTQnII2kqrBL+Yppnpear0j4BsYgpJstUo1fiaUlIgOprVU6pBbUSJuNEGhk7V6KudOVfBIJg93bEQKrtiSAzUsVf91TBttIW3zF3G31Gu0tnJmS23f6Q=" />
+<input type="hidden" name="meta" value="VWxYN8Fcw3QHaFMUK7D2o9aYln38zcTaxFYQB0egR56b8ClsoSb+rBVL405xRWXMuhNd0Y3g+LSVV7jad04SppVK2LO12MTcwdR2JXUdkrw/+pFTilWXsS62sKuEicemp11TWM+cP42HMGONY9WF5x3ER0fkL+dvn+Il85qRm70rGK+qWMstL1dWla+q0f5j4aXgmqUbzCTPwYRE03HhdSZ2zi73YaCBdpb0/ZbbAO3t5zs+amK8SgDI5LZhRMUk74du2b9tbm3DTJGgk311RNjhV0pANdy8tZPlT4fpQ+q6W+CWXuuBVnG35P7YmdSEWwSEDBXdaImPfUj8guajw41tmFrmhpWATTrYFoBKv78kwBjWtcFo4zWHvSSCYPEzgRyibY/rcHuNWn/w6daWNCy93dFDfQH3gy32zIfCO/z695r761rzBDzDIe2NRu+VSjsm9MGbgb17Y8wCPjUpdQVlBODmXmdj0wrVnJttyOw=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="2a0a52fde0dd9973dc27179a3c64a5943a98b11d" />
+<input type="hidden" name="csrf_token" value="5c125294012909d6c636fa53fb9cad9dad843d47" />
 </div>
 
 
@@ -444,31 +444,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
+                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
+                            <hr>
+							<h5>Pedego Electric Bikes</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1082&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>10% OFF ENTIRE FOOD PURCHASE</h4>
+                            <hr>
+							<h5>Magaritas</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
+                            <hr>
+							<h5>Gold’s</h5>
+                        </a>
+                	
+                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
                         	<h4>25% OFF ANY TROLLY TOUR</h4>
                             <hr>
 							<h5>RVA Trolley</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1075&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Segway_of_Richmond-sm.jpg');">
-                        	<h4>25% OFF ANY RICHMOND SEGWAY TOUR</h4>
-                            <hr>
-							<h5>Segway of Richmond</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
-                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
-                            <hr>
-							<h5>Burger Bach</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
-                        	<h4>$1.00 OFF ANY SUB</h4>
-                            <hr>
-							<h5>Albert’s Pizzeria</h5>
                         </a>
                 	
 	                    </div>
