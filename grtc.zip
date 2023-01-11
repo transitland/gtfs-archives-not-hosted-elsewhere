@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="F4AYie77aSD7uJGKL3ghBhyCHbD4qEJZaBlusJp6+2oa8iYYJSMtHTYdV6eE/UYXoJhCTyTiNISQxCmIn2SCFcsVZfLt0m8P7MyZ7eCeA6SC8M4o6kFeSjeuPtE3meco5Rurjk+ZDdktyUaJ2TQC+XG2kiw0M0hWUMNWbsLUF3M9S5boLPBmEQeDG3isBxSMvfIr7m+mWjVxzQuMCFODMdfPOnVVDHuTBZwTtnDDFuDnLVc9OX1VWWdrQQnfkvncmEkPiwTC4vqe3lc6bIfa0jvtR8Dx6MyEQcHDroOS1gbHY+o3Al9b2inKxJaTF/qXgDb0mlTUhZoEmT6nPvuxxWfNko+c0PLCsbL5TNBTu3V7THuepd0c8Oxj/Oek4qHliQLr/+3mugKoDTSnlsV9F0GRILlTE/UAPCO8udPW/zZhzohlHC6KksmhDjWYJMXPwRCu3FdvzBpieWb7w3ppdGorLMUzeFeqnJboOoRz8oY=" />
+<input type="hidden" name="meta" value="DvjARaLZcYZFU5o/gFHTc3E30AWmkb+FV3iEovnlnOVi9Q990Vz/4yI5zlgmiOsE+kwnd9rZxtaz4d0wwRmWEa+hllZDOOCbCEy+Qb0fTA9Ha2uRy+KflZdrKHwOkFyhu9yfwJEo5FfyJAKalLy6GeOfh0vEynEwG9mxwyPrOOFnU42UDGow5PZyGSI8cJH1Jyh1fw9hR85qFJWiWGVwPWNRILqBuWfW2C2HxaDwkRRm+GbO+IswVtWDkfIxNeccgvophymigv4Pve5xLFlaGgmS4NJpQWUGGpaNMZOhFSFY5e09Scs7ckUNPRoAwQ5VU7bT4mcluloFfuds6xwZuLaCJYvrvgIK5E2E2H9nPbacqQFteqmOv4Pr0lt+vvGYPKcE32sb9/hccFjGY2dFeszwegO3W9uW/MDJPiVg2q8qq2Oul3etnQ7E3L/KjuG7TGdLWwN/xKQFgN8mpb2FCrUO2BE/KAZHvlGfseeYe/U=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="04191cfc1ae922b52bfcd2a7228b342077f9b890" />
+<input type="hidden" name="csrf_token" value="34fae7d1c85d7d385d8983d64bba20bb20a1c370" />
 </div>
 
 
@@ -445,20 +445,6 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
-                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
-                            <hr>
-							<h5>Pedego Electric Bikes</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
-                            <hr>
-							<h5>Sahara Cafe and Grill</h5>
-                        </a>
-                	
-                    		        
                 		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
                         	<h4>25% OFF ANY TROLLY TOUR</h4>
                             <hr>
@@ -466,10 +452,24 @@ function googleTranslateElementInit() {
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
-                        	<h4>$1.00 OFF ANY SUB</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
+                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Albert’s Pizzeria</h5>
+							<h5>Capital Ale House (Downtown)</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
+                        	<h4>FREE 7 DAY GYM PASS</h4>
+                            <hr>
+							<h5>Anytime Fitness</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1057&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Island_Yoga_Fitness.jpg');">
+                        	<h4>FREE 1 HR FITNESS SCREENING</h4>
+                            <hr>
+							<h5>Island Yoga Fitness</h5>
                         </a>
                 	
 	                    </div>
