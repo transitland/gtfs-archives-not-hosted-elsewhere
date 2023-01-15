@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="6T1OTJ16Ygm8FPsEsdXMNyWmx/XlrjjM1G+InbYX1uzCveN8G+ZJobIdC40yhSIYoDLyk83VR8O+K81u7Hnk7tLDhXhvXA0I8DUqxc1NwSuhtgWNHCrJ7yxxmzXwJJYQbef0CztMPKSp6sCu9vgULDSEYCdtcIrnH2Zy2OFb2Ra10TQPnGA1Z3V2/XEc63WhLS/C9cXOYH5+oWO+iN4I2JYOefxlR9n5zBLabdlVB97MSew39Kt9ZDQskDK1KChsH6pYbHeqy3eHu5XomZfWoNh/qJZEd2iw26PO34ycR/o4/tTtlIkF5VCx8Hj11OGyb/FJbxQvfmTAXYxaENIc7Xw65V3JaRl9lLicdiel502HC7usvUbjUrnGx31qRMlG7v9OoeLvYXtFolPrn1jVuh/3RSXwCHABqEB7n/I9/CsFrRLijtmVMOn5OjNY7gHb4NJDrOMWmS9a4R+nluRmx9XSGlY3L+HOedWbUpgnq94=" />
+<input type="hidden" name="meta" value="YdtE/rZzUImt/gclo65xs36rvcNjOF8eN1EpIVy/TXQMNQQWnoUyInfwm5ST7cktgT8FRZamd1bHYw8x/Mkm596basmsn5KEyzZsU2a8x5TP5tpJ1J/YLkGi7+sDPy0ma43HfzbFFtJDPD+kF2o7yNctfvN0+7DHh6Bt291xt8+NSur2EF1Sv3VGfY66BitWa4C5eISAw1+/F8CXubVd7cxvhKHYur8lCs5S/cvGHWjkp59YEhAuplIM7UQdBGAtMTkbgLAUw3Miswg/WoBv0MMKFyfrbcmZpUakXKpWx8Tf4FC9h12sPmJpJ8G2OE9o35RemOrfGMQyEW8ZDeSFjQqbeHA1+OE8Y9AZEY2JaUXqWLDKSkMfv1QjvIYCa6toi+jCRrc+3bRAfiFF077pa0sGyqJ877MptAmF1MlimuUR1QPhlGfKrGfPiJgujv9vvhooObeKuHkXTksiRgy4NP//5QRqM11RQfh77FWD0Y4=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="df19196fbbfcc689beac36fb92878cecb7a15445" />
+<input type="hidden" name="csrf_token" value="81df8b01cbd0d30ed73e9d3b90d0ca452e16015f" />
 </div>
 
 
@@ -445,31 +445,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
-                        	<h4>25% OFF ANY TROLLY TOUR</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
+                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
                             <hr>
-							<h5>RVA Trolley</h5>
+							<h5>The Urban Farmhouse Market & Cafe</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1098&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Burger_Bach_Group_of_Ladies-sm.jpg');">
-                        	<h4>5% OFF FOOD AND BEVERAGE PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1073&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Pedego-ElectricBikes-ShockoeB-3-sm.jpg');">
+                        	<h4>25% OFF ELECTRIC BIKE TOUR OR RENTAL</h4>
                             <hr>
-							<h5>Burger Bach</h5>
+							<h5>Pedego Electric Bikes</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
-                        	<h4>15% OFF ALL FOOD PURCHASES</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1061&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Science_Museum_Family_Visit-sm.jpg');">
+                        	<h4>FREE GENERAL ADMISSION</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
+							<h5>Science Museum of Virginia</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
-                        	<h4>$1.00 OFF ANY SUB</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1059&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Flying-Squirrels-Stadium-sm.jpg');">
+                        	<h4>10% OFF FLYING SQUIRRELS GEAR</h4>
                             <hr>
-							<h5>Albert’s Pizzeria</h5>
+							<h5>Richmond Flying Squirrels</h5>
                         </a>
                 	
 	                    </div>
