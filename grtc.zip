@@ -116,9 +116,9 @@ function googleTranslateElementInit() {
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="8" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="PdXQMl52sLGGbHu9tHfUK/DtEWQAKgkZubF0g3y+UuYoU0fbfISuG1LO7RonArMH8XElBZspIKsNGo95PtTOBd31/mkZmduG8cuCWIxwqgbvIrWIQkuJCNaHZbQ13GlIUfO5hiGKyoz/m3uffeLcaBM38+IyEaxQWDKg8ZclPTzBrPpL2VLVKflk9czANIKAxxmFNGg2PM+6lvmczenQ0N+zyPf+zWrxvtI6SoWss9+HG5IJLEAgtwVTL0AY2IWO15TJTLwiuuClvygMNNZIflP1SaqBktyaXWPXEfyojQNL4niTdREtguuNi3MALaCvd4zsoNKFTo84nIrWZFLIK/t6ZS8kZJgrGFQyBYqFnmw71qbzkDE7xNqKMGbhHjaGhMR0UDviK6yZrZL4V9etR7D2fLKda67Zr0j3zgSApCmXUVclt+atu2tI8WpMhk6acNX9flcrkQXf5S517bwQqEwmSg4OqaCKgZiEfSh8pxE=" />
+<input type="hidden" name="meta" value="IcYPo5oqWivgD6eUhHslV6FDlhKtdLRK/UUP+7rWRkfjxMwR9NN82GO5FXOHGoiGb1rXp86YJSE1Sksc2Td22CQz4JSKq2DOtzkCuf+zu5Qmj+FeWz06WtZ0ABzMMntKT+Rj4SavbpEg7QqJqFo8xLjYOjkgHEAdQk95bKsdA1/qYyGi7Wlabdg4dNN94WJGqKehBWI9ENElhVpMP8yA58L1oa5PXRPKJH0aFsBeKx60OJYyn1HiNoezARboDd6KiEMq93stdFSjLPNCQlm4bcS9xZoGHr1kpOip5ow5TiU72du/tr6w1cITE74OTqUc7LWZ7odhjt7jVY6HpOqRJ8OBuWIweDoxbDEqZUx+CBWTQJzBtreLQWxDPD041ySR2MVFbUs71tSLt2rFah1F0GZqA/IMnYEKjCNV0e+UBXeEqTPE7Xe/A9FgHGonP6lj2Bn5W/FBW5Uo5px9Z1d2bqeIjWESe+qIXHFVZhP17WI=" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="1292fcb348095a54842d5f90987ef06abf8e8dff" />
+<input type="hidden" name="csrf_token" value="0de099d7a25ae89363eecd04a01511a1f8142e1a" />
 </div>
 
 
@@ -445,31 +445,31 @@ function googleTranslateElementInit() {
                     		        
 		                <div class="rewards-footer-ads">
                     
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1096&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/UFarmhouse_Mother_Daughter-sm.jpg');">
-                        	<h4>10% OFF ON ALL FOOD, BEVERAGES AND MARKET ITEMS</h4>
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1117&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Albert_Pizzeria_1.jpg');">
+                        	<h4>$1.00 OFF ANY SUB</h4>
                             <hr>
-							<h5>The Urban Farmhouse Market & Cafe</h5>
+							<h5>Albert’s Pizzeria</h5>
                         </a>
                 	
                     		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1102&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Sahara_Cafe_Grill-sm.jpg');">
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1100&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Golds_Gym_Willow_Lawn-sm.jpg');">
+                        	<h4>$0 TO JOIN!</h4>
+                            <hr>
+							<h5>Gold’s</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1115&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Generic_Image_Bus_Rider_Pass-sm.jpg');">
+                        	<h4>FREE BEVERAGE</h4>
+                            <hr>
+							<h5>Caribbean Chef</h5>
+                        </a>
+                	
+                    		        
+                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1113&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/CapAleHouse-Millenial-Girls-3-sm.jpg');">
                         	<h4>15% OFF ALL FOOD PURCHASES</h4>
                             <hr>
-							<h5>Sahara Cafe and Grill</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1071&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/RVA-Trolleys-ShockoeB-sm.jpg');">
-                        	<h4>25% OFF ANY TROLLY TOUR</h4>
-                            <hr>
-							<h5>RVA Trolley</h5>
-                        </a>
-                	
-                    		        
-                		<a href="http://ridegrtc.com/fares/find-rewards/search/?partner%5B%5D=1063&category%5B%5D=&submit=Search%21" class="rewards-footer-ad" style="background-image: url('/media/main/Anytime_Fitness.jpg');">
-                        	<h4>FREE 7 DAY GYM PASS</h4>
-                            <hr>
-							<h5>Anytime Fitness</h5>
+							<h5>Capital Ale House (Downtown)</h5>
                         </a>
                 	
 	                    </div>
